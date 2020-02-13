@@ -24,4 +24,5 @@ public class Main {
     private static int mod(int a, int b) {
         return a%b;
     }
+    String hi = "This is a change for branch 1";
 }
